@@ -22,7 +22,7 @@
     "rxjs": "^6.2.1",
     "rxjs-system-bundle": "^6.0.0",
     "serve-favicon": "~2.4.5",
-    "ws": "^5.0.0"
+    "ws": "^7.4.6"
   },
   "nodemonConfig": {
     "watch": [
